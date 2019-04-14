@@ -1,7 +1,7 @@
-*ASSALAMUALAIKUM, SELAMAT DATANG DI GITHUB SAYA*
+# *ASSALAMUALAIKUM, SELAMAT DATANG DI GITHUB SAYA*
 
 
-# _Tugas-UAS
+# _Tugas-UAS_
    FLOWCHART PROGRAM TUGAS UAS
 
 ![FLOWCHART](https://user-images.githubusercontent.com/45529677/56093421-cadba680-5ef2-11e9-98b9-25e8ea6d8196.jpg)
@@ -10,9 +10,9 @@
 ## _Hasil Program_
    Untuk Hasil Program Silahkan klik [Picture][link-Picture]
    
-   [link-Picture]:
+   [link-Picture]:https://github.com/alindaismyn/tugas-UAS/blob/master/okay/jpg/bandicam%202019-04-14%2013-59-24-450.jpg
    
-##  _Penjelasan
+##  _Penjelasan_
 
     Kali ini saya akan membuat program dengan berbagai isi di dalamnya :
     * Function
@@ -24,7 +24,7 @@
     sudah paham, mari kita lanjut untuk membuat program MENU PILIHAN PROGRAM.
 
 -------------------------------------------------------------------------------------------
-##  _Langkah Running Program
+##  _Langkah Running Program_
 
      1. Mulai, Login dahulu
      2. Jika berhasil, tampil menu pilihan (terdapat 1-5 pilihan )
